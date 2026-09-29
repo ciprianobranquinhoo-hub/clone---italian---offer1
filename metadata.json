@@ -1,0 +1,8 @@
+{
+  "name": "1 257 Outils Thérapeutiques",
+  "description": "Ressources et outils thérapeutiques pour enfants et adolescents.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
