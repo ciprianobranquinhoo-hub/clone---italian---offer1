@@ -1,6 +1,6 @@
 {
-  "name": "1 257 Outils Thérapeutiques",
-  "description": "Ressources et outils thérapeutiques pour enfants et adolescents.",
+  "name": "1 257 Recursos Terapêuticos",
+  "description": "Recursos e ferramentas terapêuticas para crianças e adolescentes.",
   "permissions": [],
   "capabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
